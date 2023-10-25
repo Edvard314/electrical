@@ -1,0 +1,17 @@
+abbreviation: CC
+available: true
+classes: 32
+colour: 63
+id: 0
+label: COOW
+longName: cobber
+name: Cobber
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/cobber.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

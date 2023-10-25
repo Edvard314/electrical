@@ -1,0 +1,17 @@
+abbreviation: CS
+available: false
+classes: 32
+colour: 0
+id: 4
+label: CIOW
+longName: cobbalt
+name: Cobbalt
+penaltyLength: 48
+penaltyLowerBound: 38
+price: 3290
+sprite:
+  filename: cargoes/cobbalt.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 12

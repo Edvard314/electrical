@@ -1,0 +1,17 @@
+abbreviation: BS
+available: false
+classes: 288
+colour: 1
+id: 3
+label: BATT
+longName: batteries
+name: Batteries
+penaltyLength: 171
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/batteries.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 20

@@ -1,0 +1,17 @@
+abbreviation: NE
+available: true
+classes: 32
+colour: 61
+id: 1
+label: NEWC
+longName: electrical wires
+name: Electrical Wires
+penaltyLength: 67
+penaltyLowerBound: 27
+price: 4934
+sprite:
+  filename: cargoes/electrical-wires.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

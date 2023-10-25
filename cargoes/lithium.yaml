@@ -1,0 +1,17 @@
+abbreviation: EW
+available: true
+classes: 16
+colour: 13
+id: 2
+label: EWOW
+longName: lithium
+name: Lithium
+penaltyLength: 50
+penaltyLowerBound: 0
+price: 7196
+sprite:
+  filename: cargoes/lithium.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 28
