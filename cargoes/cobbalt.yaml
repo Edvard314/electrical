@@ -13,5 +13,5 @@ sprite:
   filename: cargoes/cobbalt.png
   left: 0
   top: 0
-unitName: Items
-weight: 12
+unitName: Tonnes
+weight: 16

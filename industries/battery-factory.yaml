@@ -3,6 +3,7 @@ callbacks: ''
 cargoAcceptance:
 - CIOW
 - EWOW
+- addd
 cargoProduction:
 - BATT
 colour: 1

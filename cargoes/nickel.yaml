@@ -1,0 +1,17 @@
+abbreviation: da
+available: false
+classes: 32
+colour: 1
+id: 5
+label: addd
+longName: nickel
+name: Nickel
+penaltyLength: 116
+penaltyLowerBound: 16
+price: 4112
+sprite:
+  filename: cargoes/nickel.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
